@@ -1,5 +1,5 @@
 # Setting Up Your Coding Environment
-# I created this to remind me how I set up vs code on my computer; i wanted vs code to be able to use github copilot with the SAP API work that we did at work.  The highlighted text below are the important points; the rest was filled in by copilot
+# I created this to remind me how I set up vs code on my computer; i wanted vs code to be able to use github copilot with the SAP API work that we did at work.  The bolded text below are the important points; the rest was filled in by copilot
 
 ## 1. Install a Code Editor
 - Download and install a code editor like Visual Studio Code, Sublime Text, or IntelliJ IDEA.
